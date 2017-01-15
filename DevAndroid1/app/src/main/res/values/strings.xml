@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DevAndroid1</string>
+    <string name="title_activity_banco_dados">BancoDadosActivity</string>
+</resources>
