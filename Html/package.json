@@ -1,0 +1,33 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "exemplo para exibir graficos",
+  "scripts": {
+    "clean": "",
+    "build": "",
+    "build:w": "",
+    "server": "lite-server -c=bs-config.json",
+    "start": "concurrent \"npm run server\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trfiladelfo/g4labs_android.git"
+  },
+  "keywords": [
+    "labs"
+  ],
+  "author": "Thiago Ribeiro Filadelfo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trfiladelfo/g4labs_android/issues"
+  },
+  "homepage": "https://github.com/trfiladelfo/g4labs_android#readme",
+  "devDependencies": {
+    "concurrently": "^3.3.0",
+    "lite-server": "^2.2.2"
+  },
+  "dependencies": {
+    "amcharts": "^3.14.5",
+    "amcharts-jschart": "^3.20.20"
+  }
+}

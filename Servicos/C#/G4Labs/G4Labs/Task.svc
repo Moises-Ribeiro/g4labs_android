@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="G4Labs.Task" CodeBehind="Task.svc.cs" %>
